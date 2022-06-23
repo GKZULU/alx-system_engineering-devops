@@ -1,2 +1,2 @@
 #!/bin/bashi
-chmod u+x hello
+chmod o+rx hello
